@@ -9,7 +9,7 @@
 
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282188406863) 
 [![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282188406863) 
-[![ gentle-coast-72986 ](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( gentle-coast-72986 ) 
+[![ gentle-coast-72986 ](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GhbLYECWF1fJgp068dmJvI) 
 ---------
 - 👋 Hi, I’m @nezzbotz
 - 👀 I’m interested in ...
