@@ -22,6 +22,7 @@
 - 📝 gentle-coast-72986 
 - 🚹 I'm 15 years old
 - 🗺️ I'm from Indonesia 
+- 💰 I'm ready Collaboraor with anyone 
 <!---
 nezzbotz/nezzbotz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
