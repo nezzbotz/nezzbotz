@@ -8,6 +8,13 @@
 
 ## Mr Elliez X Jonsen X Hartam 
 
+*- - sᴋɪʟʟs: - -* 
+> JavaScript [70.7%]
+> Python [40.4%]
+> CSS [0.1%]
+> Html [67.9%]
+> Recode [90.8%]
+> Create Webs [3.9%]
 
 
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282188406863) 
